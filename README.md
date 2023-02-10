@@ -34,4 +34,4 @@ The Airline Reservation System provides the following functionalities:
 Contributions are always welcome. If you want to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the  [https://opensource.org/licenses/MIT](MIT License).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
